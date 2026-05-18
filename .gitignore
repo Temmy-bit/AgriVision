@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Text editor files
+doskey.txt
+
+# Virtual environments
+.venv
+agv
+
+# Environment variables (secrets)
+.env
+
+# Data files
+dataset/
+
+Train.csv
+Test.csv
+New_Test.csv
+New_Train.csv

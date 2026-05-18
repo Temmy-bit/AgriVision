@@ -1,0 +1,7 @@
+ultralytics
+pandas
+numpy
+albumentations
+opencv-python
+sklearn
+polars[rtcompat]
