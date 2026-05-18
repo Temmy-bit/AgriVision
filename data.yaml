@@ -1,0 +1,7 @@
+names:
+- anthracnose
+- healthy
+- cssvd
+nc: 3
+train: C:\Users\HP\Desktop\AGRIVISION\dataset\images\train
+val: C:\Users\HP\Desktop\AGRIVISION\dataset\images\val
